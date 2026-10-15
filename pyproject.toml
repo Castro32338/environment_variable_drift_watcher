@@ -1,6 +1,6 @@
 [project]
 name = "environment-variable-drift-watcher"
-version = "0.1.0"
+version = "0.1.1"
 description = "Detects runtime changes to process environment variables and emits events when values differ from startup."
 requires-python = ">=3.10"
 dependencies = []
